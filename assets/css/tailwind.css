@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@include font-face(Phetsarath, '~/assets/fonts/phetsarath_ot.tff', 400, normal, tff);
+@include font-face(Phetsarath, '~/assets/fonts/phetsarath_ot.tff', 600, medium, tff);
